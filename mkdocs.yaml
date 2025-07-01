@@ -1,0 +1,6 @@
+docs_dir: ./docs
+site_name: CoreOS Documentation
+
+nav:
+- Home: README.md
+- Frequently Asked Questions: faq.md
